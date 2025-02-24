@@ -52,5 +52,9 @@ I'm Izaan Khalid, a Computer Science student at the University of Houston-Downto
 
 <!-- Markdown -->
 
+---
+
+### :joy: Funny Joke :
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
