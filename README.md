@@ -50,3 +50,7 @@ I'm Izaan Khalid, a Computer Science student at the University of Houston-Downto
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Izaan-Khalid&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
