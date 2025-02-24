@@ -60,9 +60,6 @@ I'm Izaan Khalid, a Computer Science student at the University of Houston-Downto
 - Achieved 99.9% uptime using AWS RDS
 - Tech stack: Django, React, Node.js
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Izaan-Khalid&show_icons=true&theme=dark)
-
 ## 📫 Connect With Me
 - Email: izaan.khalid@outlook.com
 - LinkedIn: [izaankhalid](https://www.linkedin.com/in/izaankhalid/)
