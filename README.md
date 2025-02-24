@@ -17,16 +17,14 @@
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxremlmMWVpd3dmY29ubWtqNnFtbTZrdTdhaGwyaWl6d2cwZTVjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="600" height="300"/>
-</div>
----
 
-### :man_technologist: About Me :
+## :man_technologist: About Me :
 
 I'm Izaan Khalid, a Computer Science student at the University of Houston-Downtown and a passionate developer focused on building scalable web applications and exploring AI solutions.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
@@ -46,7 +44,35 @@ I'm Izaan Khalid, a Computer Science student at the University of Houston-Downto
 
 ---
 
-### :fire: My Stats :
+## :rocket: Featured Projects :
+
+### 🎙️ Audio Insight :
+- AI-powered audio processing application supporting transcription, summarization, and interactive querying
+- Built with Python, leveraging Groq's Whisper model and OpenAI 4.0
+- Supports 50+ languages with 90% response accuracy
+- Tech stack: NumPy, Pandas, PyAudio, Groq, OpenAI, Pinecone, Streamlit
+
+### 🎮 Game Hub
+- Dynamic video game discovery platform with advanced search and filtering
+- Reduced user search time by 40% across 5,000+ video games
+- Built with React, Express, TypeScript, and Node.js
+- [Live Demo](https://game-hub-lime-nu.vercel.app/)
+
+### 🏆 Esprts
+- Feature-rich esports application tracking 5,000+ players across 1,000+ games
+- Implemented social authentication increasing signups by 30%
+- Achieved 45% increase in user retention through personalized features
+- Built with React Native, Express, TypeScript
+
+### 🎓 HiScholar (Professional Experience)
+- Developed scalable Django backend supporting 5,000+ scholarships
+- Integrated comprehensive U.S. university database
+- Achieved 99.9% uptime using AWS RDS
+- Tech stack: Django, React, Node.js
+
+---
+
+## :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Izaan-Khalid&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -54,7 +80,7 @@ I'm Izaan Khalid, a Computer Science student at the University of Houston-Downto
 
 ---
 
-### :joy: Funny Joke :
+## :joy: Funny Joke :
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
